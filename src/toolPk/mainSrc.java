@@ -8,7 +8,7 @@ import org.jsoup.select.Elements;
 
 /**
  *
- * @author sushantpt
+ * @author Gu1u$y$
  */
 public class mainSrc {
     public static void dataSrc(String country) throws IOException {
